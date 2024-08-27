@@ -30,6 +30,7 @@ function MyApp({ Component, pageProps }) {
       <div className="grid wrapper">
         <Component {...pageProps} />
       </div>
+      <h2>Carlos Fabian Pavia</h2>
     </>
   )
 }
